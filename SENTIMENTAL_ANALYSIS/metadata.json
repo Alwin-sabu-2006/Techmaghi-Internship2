@@ -1,0 +1,6 @@
+{
+  "name": "Sentiment Analyser",
+  "description": "A beautiful sentiment analysis app powered by Gemini AI to analyze emotional tone, expressions, and key triggers in text.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
